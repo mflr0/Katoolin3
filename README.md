@@ -103,4 +103,3 @@ the [LICENSE](https://github.com/mflr0/Katoolin3/blob/master/LICENCE) file for d
 If you want to contact me you can reach me at:
 
 - [Email](mailto:mflr0@onionmail.org)
-- [Twitter](https://twitter.com/mflr0)
